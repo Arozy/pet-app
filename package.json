@@ -26,6 +26,7 @@
     "@angular/router": "^17.2.0",
     "@angular/service-worker": "^17.2.0",
     "@angular/ssr": "^17.2.3",
+    "@ngx-translate/core": "^16.0.3",
     "bootstrap": "^5.3.3",
     "express": "5.0.0",
     "prettier": "^3.2.5",
